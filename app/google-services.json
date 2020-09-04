@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "328245681414",
+    "firebase_url": "https://contact-app-e67e9.firebaseio.com",
+    "project_id": "contact-app-e67e9",
+    "storage_bucket": "contact-app-e67e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328245681414:android:3a46f6b4b050908bd7d287",
+        "android_client_info": {
+          "package_name": "com.example.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328245681414-jne5fbeagnnvd69oofhir1agkc7udbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY-9V_zt8Cy1ElS9pvtGk3rmAZrvTfvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328245681414-jne5fbeagnnvd69oofhir1agkc7udbkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328245681414:android:3014f625473d6c87d7d287",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328245681414-jne5fbeagnnvd69oofhir1agkc7udbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY-9V_zt8Cy1ElS9pvtGk3rmAZrvTfvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328245681414-jne5fbeagnnvd69oofhir1agkc7udbkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">Phone</string>
+    <string name="No_of_contacts">10 Contacts</string>
+    <string name="logo">Avatar</string>
+
+    <string name="name">Name</string>
+    <string name="phoneNumber">PhoneNumber</string>
+    <string name="email">Email</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="saveButton">Save</string>
+    <string name="updateButton">Update</string>
+
+</resources>
